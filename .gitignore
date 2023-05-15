@@ -1,0 +1,13 @@
+*.csv
+*.db
+*.bak
+*.pcap
+*.log
+*.o
+*.mi2log
+*.png
+*.pkl
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pyc
